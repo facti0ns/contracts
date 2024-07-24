@@ -1,0 +1,6 @@
+{
+  "name": "ETCswapV3 Factory",
+  "contractName": "ETCswapV3Factory",
+  "project": "etcswap",
+  "tags": ["factory"]
+}

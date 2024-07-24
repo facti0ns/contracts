@@ -1,5 +1,5 @@
 {
-  "name": "EtcswapV2 Router",
+  "name": "ETCswapV2 Router",
   "contractName": "EtcswapV2Router02",
   "project": "etcswap",
   "tags": ["router"]
