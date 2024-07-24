@@ -1,7 +1,12 @@
 {
-    "name": "ETCswap",
-    "website": "https://etcswap.org/",
-    "social": {
-      "github": "etcswap"
-    }
+  "name": "ETCswap",
+  "website": "https://etcswap.org",
+  "social": {
+    "github": "etcswap",
+    "twitter": "ETCswap_org"
+  },
+  "contacts": {
+    "contact": "contact@ethereumclassic.com",
+    "security": "security@ethereumclassic.com"
   }
+}
